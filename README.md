@@ -1,7 +1,3 @@
-Certainly! Here's a README file for a logistic regression implementation with the specified sections:
-
----
-
 # Logistic Regression
 
 ## Section 1: Binary Classification with Logistic Regression
