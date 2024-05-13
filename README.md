@@ -8,7 +8,7 @@ This project implements logistic regression for binary classification tasks. Log
 
 The Sigmoid function, also known as the logistic function, is defined as:
 
-![Sigmoid Function](sigmoid_function.png)
+![Sigmoid Function]()
 
 It maps any real-valued number to the range [0, 1]. In logistic regression, the Sigmoid function is used to transform the output of the linear combination of input features into a probability value.
 
@@ -16,7 +16,7 @@ It maps any real-valued number to the range [0, 1]. In logistic regression, the 
 
 The Cost function, also known as the loss function, measures the error between the predicted probabilities and the actual labels. In logistic regression, the commonly used Cost function is the binary cross-entropy loss, defined as:
 
-![Cost Function](cost_function.png)
+![Cost Function]()
 
 The goal of logistic regression is to minimize this cost function by adjusting the model parameters.
 
